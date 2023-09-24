@@ -1,0 +1,22 @@
+.card-img-top{
+    margin: 20px auto 0;
+    max-width: 150px;
+    max-height: 250px;
+}
+
+.card-footer{
+    padding: 1rem 1.25rem;
+}
+
+.link{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+.link:hover{
+    color: black;
+    background-color: white;
+}

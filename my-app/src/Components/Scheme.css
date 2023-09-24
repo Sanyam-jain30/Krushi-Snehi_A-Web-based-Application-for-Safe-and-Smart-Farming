@@ -1,0 +1,32 @@
+.card-total{
+    width: 90%;
+    margin: 20px auto;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.card-start{
+    position: relative;
+}
+
+.card-start img{
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+    border-radius: 20px 20px 0 0;
+}
+
+.card-start h3{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+}
+
+.card-group{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 20px;
+    margin: 20px 0 0;
+}

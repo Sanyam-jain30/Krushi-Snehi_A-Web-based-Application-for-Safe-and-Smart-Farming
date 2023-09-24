@@ -1,0 +1,33 @@
+.display-result{
+    max-width: none;
+    margin: 40px 20px;
+    border: 2px solid #00ff00;
+    min-width: 96%;
+    padding: 20px 30px;
+}
+
+.display-result:focus{
+    outline: 2px dashed var(--aqua);
+}
+
+.card-deck{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-gap: 1.5rem;
+    justify-items: center;
+}
+
+.effected-text{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.cropimg{
+    margin: 20px 10px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.fertilizer{
+    margin-top: 10px;
+}

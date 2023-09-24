@@ -1,0 +1,22 @@
+.um-container{
+    width: 95%;
+    margin: 40px 20px;
+    border: 2px solid #00ff00;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+
+.um-header{
+    color: red;
+    font-size: 2.2rem;
+}
+
+.um-container-data{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.um-container-para{
+    margin-left: 20px;
+    white-space: pre-line;
+}

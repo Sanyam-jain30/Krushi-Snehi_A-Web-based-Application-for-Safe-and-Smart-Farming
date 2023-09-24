@@ -1,0 +1,31 @@
+.pictureUpload{
+    text-align: center;
+    padding: 50px 100px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 700;
+    border: none;
+
+    background: #007bff;
+    box-shadow: -4px 10px 20px rgba(0, 0, 0, 0.15), 4px 24px 40px rgba(0, 0, 0, 0.15), inset -4px -4px 60px 10px rgba(0, 0, 0, 0.15), inset 4px 4px 60px 10px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+
+.pictureUpload:focus{
+    border: #fff;
+}
+
+.icon-camera{
+    width: 5.2rem;
+    height: 5.2rem;
+    cursor: pointer;
+}
+
+.gallery{
+    cursor: pointer;
+}

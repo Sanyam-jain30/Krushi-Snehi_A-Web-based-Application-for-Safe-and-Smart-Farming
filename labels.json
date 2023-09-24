@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Apple Scab",
+        "effected": "true",
+        "solution": "Prune and dispose of infected leaves, use fungicide sprays in early spring before buds open, and promote good air circulation.",
+        "symptom": "Raised, scab-like spots on fruit"
+    },
+    {
+        "name": "Black Rot on Apple",
+        "effected": "true",
+        "solution": "Remove infected plant parts, apply fungicides during the growing season, and ensure proper spacing and ventilation.",
+        "symptom": "Dark lesions on fruit and leaves"
+    },
+    {
+        "name": "Cedar Apple Rust",
+        "effected": "true",
+        "solution": "Plant resistant varieties, remove nearby cedar trees, and apply fungicides as needed.",
+        "symptom": "Rust-colored spots on leaves and fruit"
+    },
+    {
+        "name": "Healthy Apple",
+        "effected": "false",
+        "solution": "Maintain proper orchard hygiene, prune for good air circulation, and provide adequate nutrition.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Healthy Blueberry",
+        "effected": "false",
+        "solution": "Proper soil preparation, irrigation, and pest management.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Powdery Mildew on Cherry",
+        "effected": "true",
+        "solution": "Prune for better air circulation, apply fungicides, and remove infected plant parts.",
+        "symptom": "White powdery spots on leaves"
+    },
+    {
+        "name": "Healthy Cherry",
+        "effected": "false",
+        "solution": "Maintain proper orchard hygiene, prune as needed, and monitor for pests.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Cercospora Leaf Spot on Corn",
+        "effected": "true",
+        "solution": "Plant resistant varieties, rotate crops, and use fungicides if necessary.",
+        "symptom": "Grayish-brown spots with yellow halos on leaves"
+    },
+    {
+        "name": "Common Rust on Corn",
+        "effected": "true",
+        "solution": "Plant resistant varieties, practice crop rotation, and use fungicides if needed.",
+        "symptom": "Reddish-brown pustules on leaves"
+    },
+    {
+        "name": "Northern Leaf Blight on Corn",
+        "effected": "true",
+        "solution": "Rotate crops, use resistant varieties, and maintain proper plant spacing.",
+        "symptom": "Long, elliptical lesions on leaves"
+    },
+    {
+        "name": "Healthy Corn",
+        "effected": "false",
+        "solution": "Implement good cultural practices, provide adequate nutrition, and manage pests.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Black Rot on Grape",
+        "effected": "true",
+        "solution": "Prune for good air circulation, remove infected plant parts, and use fungicides.",
+        "symptom": "Brown spots on leaves and fruit"
+    },
+    {
+        "name": "Esca (Black Measles) on Grape",
+        "effected": "true",
+        "solution": "Prune and remove infected wood, use proper pruning techniques, and apply fungicides.",
+        "symptom": "Black streaks and necrosis in leaves"
+    },
+    {
+        "name": "Leaf Blight (Isariopsis Leaf Spot) on Grape",
+        "effected": "true",
+        "solution": "Prune to improve air circulation, use fungicides, and remove infected leaves.",
+        "symptom": "Brown lesions with yellow halos on leaves"
+    },
+    {
+        "name": "Healthy Grape",
+        "effected": "false",
+        "solution": "Prune, maintain proper nutrition, and manage pests to ensure plant health.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Citrus Greening (Haunglongbing) on Orange",
+        "effected": "true",
+        "solution": "Plant disease-free trees, control insect vectors, and use nutrient management to improve tree health.",
+        "symptom": "Yellowing of leaves, misshapen fruit"
+    },
+    {
+        "name": "Bacterial Spot on Peach",
+        "effected": "true",
+        "solution": "Prune for better air circulation, apply copper-based fungicides, and remove infected fruit.",
+        "symptom": "Dark lesions with white centers on leaves and fruit"
+    },
+    {
+        "name": "Healthy Peach",
+        "effected": "false",
+        "solution": "Maintain orchard hygiene, provide adequate nutrients, and manage pests.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Bacterial Spot on Bell Pepper",
+        "effected": "true",
+        "solution": "Seed treatment with hot water or bleach, remove infected plants, and avoid overhead irrigation.",
+        "symptom": "Dark, water-soaked lesions on leaves and fruit"
+    },
+    {
+        "name": "Healthy Bell Pepper",
+        "effected": "false",
+        "solution": "Implement proper crop rotation, manage irrigation, and use disease-resistant varieties.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Early Blight on Potato",
+        "effected": "true",
+        "solution": "Remove infected leaves, apply fungicides, and use proper spacing for good air circulation.",
+        "symptom": "Brown concentric rings on leaves"
+    },
+    {
+        "name": "Late Blight on Potato",
+        "effected": "true",
+        "solution": "Plant disease-resistant varieties, remove infected plant parts, and use fungicides.",
+        "symptom": "Irregularly shaped brown lesions on leaves"
+    },
+    {
+        "name": "Healthy Potato",
+        "effected": "false",
+        "solution": "Practice crop rotation, provide adequate nutrients, and manage pests.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Healthy Raspberry",
+        "effected": "false",
+        "solution": "Prune properly to improve air circulation, provide adequate nutrients, and manage pests.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Healthy Soybean",
+        "effected": "false",
+        "solution": "Implement proper crop rotation, manage weeds, and use disease-resistant varieties.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Powdery Mildew on Squash",
+        "effected": "true",
+        "solution": "Plant resistant varieties, prune to improve air circulation, and use fungicides.",
+        "symptom": "White powdery patches on leaves"
+    },
+    {
+        "name": "Leaf Scorch on Strawberry",
+        "effected": "true",
+        "solution": "Provide proper irrigation, maintain good soil drainage, and remove infected leaves.",
+        "symptom": "Browning and necrosis of leaf margins"
+    },
+    {
+        "name": "Healthy Strawberry",
+        "effected": "false",
+        "solution": "Practice proper spacing, manage pests, and provide adequate nutrition.",
+        "symptom": "No disease symptoms, plant is healthy"
+    },
+    {
+        "name": "Bacterial Spot on Tomato",
+        "effected": "true",
+        "solution": "Seed treatment with hot water or bleach, manage plant spacing, and use copper-based sprays.",
+        "symptom": "Dark, water-soaked lesions on leaves and fruit"
+    },
+    {
+        "name": "Early Blight on Tomato",
+        "effected": "true",
+        "solution": "Prune lower leaves, improve air circulation, and use fungicides as needed.",
+        "symptom": "Brown concentric rings on leaves"
+    },
+    {
+        "name": "Late Blight on Tomato",
+        "effected": "true",
+        "solution": "Prune and remove infected plant parts, avoid overhead irrigation, and use fungicides.",
+        "symptom": "Irregularly shaped brown lesions on leaves"
+    },
+    {
+        "name": "Leaf Mold on Tomato",
+        "effected": "true",
+        "solution": "Prune for better air circulation, provide adequate spacing, and reduce humidity.",
+        "symptom": "Yellowing and distortion of leaves"
+    },
+    {
+        "name": "Septoria Leaf Spot on Tomato",
+        "effected": "true",
+        "solution": "Prune lower leaves, use drip irrigation, and apply fungicides if necessary.",
+        "symptom": "Small dark spots with white centers on leaves"
+    },
+    {
+        "name": "Two-Spotted Spider Mite on Tomato",
+        "effected": "true",
+        "solution": "Introduce natural predators, use insecticidal soaps or oils, and maintain good plant hygiene.",
+        "symptom": "Fine webbing, stippling, and yellowing of leaves"
+    },
+    {
+        "name": "Target Spot on Tomato",
+        "effected": "true",
+        "solution": "Prune for good air circulation, apply fungicides, and remove infected leaves.",
+        "symptom": "Circular lesions with rings on leaves"
+    },
+    {
+        "name": "Tomato Yellow Leaf Curl Virus",
+        "effected": "true",
+        "solution": "Use disease-resistant varieties, manage whiteflies, and remove infected plants.",
+        "symptom": "Yellowing of leaves, leaf curling"
+    },
+    {
+        "name": "Tomato Mosaic Virus",
+        "effected": "true",
+        "solution": "Plant disease-free seeds, control aphid vectors, and remove infected plants.",
+        "symptom": "Mottled, yellow-green leaves with mosaic pattern"
+    },
+    {
+        "name": "Healthy Tomato",
+        "effected": "false",
+        "solution": "Implement good cultural practices, manage pests, and provide proper nutrition.",
+        "symptom": "No disease symptoms, plant is healthy"
+    }
+]
