@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Krushi Snehi: A Web-based Application for Safe and Smart Farming
 
 Website flow
@@ -56,7 +55,3 @@ npm start
 ```
 
 The Application Runs on localhost:3000
-=======
-"# Krushi_Sheni" 
->>>>>>> 522bc153 (first commit)
-"# Krushi_Sheni" 
